@@ -4,6 +4,6 @@ Small web app from fastai homework. CNN (restnet18 w/ transfer learning) that cl
 
 **Mybinder**
 + Got to MyBinder.org
-+ Enter repo URL, ``
++ Enter repo URL, `https://github.com/mattjdavis/classify-site`
 + In 'Path to Notebook file (optional)', enter `voila/render/food-classifier.ipynb` and select 'URL'
 + Click launch
